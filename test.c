@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main()
 {
-   int n=6,x=0;
+   int n=3;
    if(n%2==0)
-       x=1;
+       printf("even");
    else
-      x=0;
+      printf("odd");
    return 0;
 }
