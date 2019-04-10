@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int main()
 {
-   int n=4;
+   int n=6;
    if(n%2==0)
        printf("even");
    else
