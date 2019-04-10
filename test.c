@@ -3,7 +3,7 @@
 
 int main()
 {
-   int n=5;
+   int n=4;
    if(n%2==0)
    {
        printf("even");
