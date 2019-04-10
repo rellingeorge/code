@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-   int n=6,x;
+   int n=6,x=0;
    if(n%2==0)
        x=1;
    else
